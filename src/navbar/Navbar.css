@@ -1,0 +1,4 @@
+.field.is-grouped {
+    display: flex;
+    justify-content: flex-end;
+}
